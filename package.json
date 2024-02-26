@@ -8,8 +8,8 @@
     "whiteboard"
   ],
   "dependencies": {
-    "express": "^4.17.1",
-    "socket.io": "latest"
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4"
   },
   "scripts": {
     "start": "node index"
